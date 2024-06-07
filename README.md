@@ -12,7 +12,7 @@ Este repositório contém uma coleção de exercícios resolvidos do livro "Algo
 
 ## Estrutura do repositório
 
-O projeto é organizado em pastas, cada uma contendo exercícios resolvidos relacionados a um tópico de lógica de programação. Cada arquivo começa com o número da questão, seguido da letra associada (se houver) e o nome do programa. Exemplos:
+O projeto é organizado em pastas, cada uma contendo exercícios resolvidos relacionados a um tópico de lógica de programação. Cada arquivo começa com o número da questão, seguido da letra associada (se houver) e o nome do programa. Exemplo:
 
 - Arquivo: `3-a_celsiusToFahrenheit.java`
 
