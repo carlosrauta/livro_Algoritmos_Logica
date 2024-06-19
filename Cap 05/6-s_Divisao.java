@@ -25,7 +25,7 @@ public class Main {
                 dividendo -= divisor;
                 quociente++;
             }
-            System.out.println("O quociente cabe " + quociente + " vezes no dividendo");
+            System.out.println("O divisor cabe " + quociente + " vezes no dividendo");
         }
 
         sc.close();
