@@ -1,7 +1,5 @@
 # Exercícios resolvidos de Lógica de Programação em Java
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 ## Descrição
 
 Este repositório contém uma coleção de exercícios resolvidos do livro "Algoritmos: Lógica para desenvolvimento de programação de computadores", 28ª edição, dos autores José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
